@@ -18,15 +18,26 @@ I’m passionate about exploring data to uncover insights, build machine learnin
 ## 🛠️ Tech & Tools
 
 <p align="left">
+  <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_Data_Studio_logo.svg" alt="Looker Studio" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jupyter-1.svg" alt="Jupyter Notebook" width="50" height="50"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="50" height="50"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+
+  <!-- Looker Studio -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Looker.svg" alt="Looker Studio" width="50" height="50"/>
+
+  <!-- Jupyter Notebook -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+
+  <!-- VS Code -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/>
+
+  <!-- Python -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
+
+  <!-- MySQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="50"/>
 </p>
 ---
 
