@@ -24,8 +24,8 @@ I’m passionate about exploring data to uncover insights, build machine learnin
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
 
-  <!-- Looker Studio -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Looker.svg" alt="Looker Studio" width="50" height="50"/>
+ <!-- Looker Studio (PNG fallback) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Looker.svg/512px-Looker.svg.png" alt="Looker Studio" width="50" height="50"/>
 
   <!-- Jupyter Notebook -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
