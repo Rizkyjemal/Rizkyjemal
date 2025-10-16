@@ -17,28 +17,14 @@ I’m passionate about exploring data to uncover insights, build machine learnin
 
 ## 🛠️ Tech & Tools
 
-<p align="left">
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="exc" width="50"/>&nbsp;
+<img src="https://trifacta-cms-assets.s3.us-west-2.amazonaws.com/3rd-party/logos/GoogleSheets_ConnectorLogo.png" alt="gsheet" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="sql" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/show/374016/python.svg" alt="py" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354011/looker.svg" alt="looker" width="50"/>&nbsp;
+<img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="git" width="50"/>&nbsp;
 
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-
- <!-- Looker Studio (PNG fallback) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Looker.svg/512px-Looker.svg.png" alt="Looker Studio" width="50" height="50"/>
-
-  <!-- Jupyter Notebook -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
-
-  <!-- VS Code -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/>
-
-  <!-- Python -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-
-  <!-- MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="50"/>
-</p>
 ---
 
 ## 📚 Skills
