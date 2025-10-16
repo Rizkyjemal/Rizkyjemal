@@ -53,24 +53,34 @@ I’m passionate about exploring data to uncover insights, build machine learnin
 
 ## 📂 Projects Showcase
 
-### 1. 🏦 **Predictive Modeling for Term Deposit Campaign**
-- **Description:** Predicting customer subscription for term deposit campaigns using ML models.  
-- **Tech Stack:** Python, Scikit-Learn, XGBoost, Streamlit  
-- [🔗 View on GitHub](https://github.com/yourusername/term-deposit-prediction) • [🌐 Live Demo](https://termdepositmodel-rizkyjemal.streamlit.app/)
+### 🤖 Machine Learning
+- [📈 BBCA Stock Forecasting — Machine Learning Model](https://github.com/Rizkyjemal/BBCA-Stock-Forecasting---Machine-Learning-Model)  
+  *Time series forecasting using SARIMA and Prophet models for BBCA stock price.*
+
+- [🏦 Predictive Modelling — Bank Marketing Campaign Classification](https://github.com/Rizkyjemal/Predictive-Modelling---Bank-Marketing-Campaign-Classification-)  
+  *Customer classification for term deposit subscription using ML models.*
 
 ---
 
-### 2. 🛍️ **Superstore Discount vs Profit Analysis**
-- **Description:** Analyzing discount impact on profitability by region and category using visualization tools.  
-- **Tech Stack:** Tableau, SQL, Python  
-- [🔗 View on GitHub](https://github.com/yourusername/superstore-analysis) • [📊 Tableau Dashboard](#)
+### 📊 Data Analysis
+- [🛍️ RFM Analysis — Retail Transaction](https://github.com/Rizkyjemal/RFM-Analysis---Retail-Transaction)  
+  *Customer segmentation and behavior analysis using RFM method.*
+
+- [☁️ AWS SaaS Sales — Data Analysis](https://github.com/Rizkyjemal/Data-Analysis---AWS-Saas-Sales-)  
+  *Sales performance analysis and dashboard visualization.*
+
+- [📆 Cohort Retention Analysis — Superstore Dataset](https://github.com/Rizkyjemal/Cohort-Retention-Analysis---Dataset-Superstore)  
+  *Customer retention and cohort analysis for business insights.*
 
 ---
 
-### 3. 📈 **BBCA Stock Forecasting**
-- **Description:** Forecasting stock price trends using SARIMA & Prophet models.  
-- **Tech Stack:** Python, Pandas, Prophet, Matplotlib  
-- [🔗 View on GitHub](https://github.com/yourusername/bbca-forecast)
+### 💻 Programming
+- [🧾 CLI-Based Customer Management & AML Risk Scoring](https://github.com/Rizkyjemal/CRUD-Application---CLI-BASED-CUSTOMER-MANAGEMENT-AML-RISK-SCORING-)  
+  *Python-based CRUD application with basic compliance scoring logic.*
+
+- [📚 SiJudul](https://github.com/Rizkyjemal/SiJudul)  
+  *Final Year Thesis*
+
 
 ---
 
@@ -78,4 +88,4 @@ I’m passionate about exploring data to uncover insights, build machine learnin
 Thank You for Visiting my Profile!  
 Let’s connect and collaborate 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizkyjemalsafryan/)
